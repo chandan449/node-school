@@ -1,0 +1,16 @@
+{
+  "name": "chandan449-elementary-electron",
+  "version": "1.0.0",
+  "description": "Nodeschool workshop ELEMENTARY ELECTRON.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chandan Kumar <chandan449@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cat-picture": "^5.1.2",
+    "fs": "0.0.2",
+    "lightning-image-poly": "0.0.10"
+  }
+}
